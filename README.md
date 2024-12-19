@@ -59,7 +59,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Potato-Disease-Classification-using-Deep-Learning.git```
+1. Clone the repository: ```git clone https://github.com/MadhurMohnish/ImageClassification.git```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run app.py```
 4. Access the app in your browser at ```http://localhost:8501```
