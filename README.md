@@ -1,6 +1,6 @@
 # Potato Disease Classification using Deep Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11s-kBquKT-ZiZwVMxR3KxuMKoUf6-ynd?usp=sharing)
+<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11s-kBquKT-ZiZwVMxR3KxuMKoUf6-ynd?usp=sharing) -->
 
 **Introduction**
 
@@ -98,9 +98,9 @@ To use this project, follow these steps:
 
 <br />
 
-🎬 **Project Demo Video:** [https://youtu.be/XM7sg99a5no](https://youtu.be/XM7sg99a5no)
+<!-- 🎬 **Project Demo Video:** [https://youtu.be/XM7sg99a5no](https://youtu.be/XM7sg99a5no) -->
 
-🚀 **Application:** [https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification](https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification)
+<!-- 🚀 **Application:** [https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification](https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification) -->
 
 <br />
 
@@ -108,7 +108,7 @@ To use this project, follow these steps:
 
 <br />
 
-**Contributing**
+<!-- **Contributing**
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
@@ -126,5 +126,5 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
 
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
+For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries. -->
 
